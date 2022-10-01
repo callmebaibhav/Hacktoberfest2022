@@ -56,4 +56,4 @@ function run() {
     ringo.send("Paul, what do you think?", paul);
 }
 
-##thanks
+##thanks.
